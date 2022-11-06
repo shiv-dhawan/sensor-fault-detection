@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+artifact/11_06_2022_19_24_34/data_ingestion/feature_store/sensor.csv
+artifact/11_06_2022_19_24_34/data_ingestion/ingested/test.csv
+artifact/11_06_2022_19_24_34/data_ingestion/ingested/train.csv
